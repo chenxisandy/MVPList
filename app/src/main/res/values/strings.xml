@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MomList</string>
+    <string name="TASK">task</string>
+    <string name="TASK_BACK">taskBack</string>
+    <string name="INDEX_BACK">indexBack</string>
+    <string name="INDEX">index</string>
+    <string name="MOM">祝妈妈生日快乐！天天开心~</string>
+    <string name="BI">皮卡丘最可爱</string>
+</resources>

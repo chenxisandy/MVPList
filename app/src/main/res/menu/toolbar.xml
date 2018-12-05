@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/delete_bin"
+        android:icon="@drawable/ic_delete_sweep_black_24dp"
+        android:title="删除"
+        app:showAsAction="always"/>
+    <item
+        android:title="试试点击上方回收站"
+        app:showAsAction="never"/>
+</menu>
